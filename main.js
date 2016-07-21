@@ -6,7 +6,7 @@ $("#name").on("keyup", function(event) {
 });
 
 $(".button").click(function(){
-    $("#output2").text("Don't be silly, computers can't make pizza. The number for Dominos is 1-800-get-zaaa. You get this instead:")
+    $("#output2").text("Don't be silly, computers can't make pizza. The number for Dominos is 1-800-GET-ZAAA. You get this instead:")
      $("#output2").css({"color": "green", "font-size": "1.5em"});
     $("#output3").append("<img src='https://media.giphy.com/media/6LbxewmUrp06A/giphy.gif'>");
 })
