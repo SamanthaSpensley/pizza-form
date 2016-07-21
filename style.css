@@ -1,0 +1,22 @@
+.wrapper {
+  width: 90%
+  margin: 2vw;
+}
+#name {
+  margin-bottom: 1vw;
+}
+.pizza {
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+}
+li {
+  list-style: none;
+}
+#btn {
+  font-size: 1em;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+}
+img {
+  margin-top: 1vw;
+}
